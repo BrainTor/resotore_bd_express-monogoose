@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"6ac9314a72541f0cfa6ad237"},"name":"iphone  11","price":60000,"amount":3,"__v":0},{"_id":{"$oid":"6ac9315572541f0cfa6ad238"},"name":"iphone  12","price":70000,"amount":3,"__v":0},{"_id":{"$oid":"6ac9315e72541f0cfa6ad239"},"name":"iphone  13","price":80000,"amount":3,"__v":0}]

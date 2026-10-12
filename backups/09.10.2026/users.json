@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"6ac9303e33d08cb9affbdf92"},"name":"Maxim","email":"123","password":"123","__v":0},{"_id":{"$oid":"6ac9306633d08cb9affbdf93"},"name":"Andrey","email":"1234","password":"123","__v":0},{"_id":{"$oid":"6ac9307133d08cb9affbdf94"},"name":"Anton","email":"12345","password":"123","__v":0}]
